@@ -2,8 +2,8 @@
 
 import crous from '../../public/mycrous.jpg'
 import zmala from '../../public/zmala system.jpg'
-import amanpro from '../../public/amanpro.jpg'
-import porfolio from '../../public/porfolio.jpg'
+import amanpro from '../../public/wa.png'
+import porfolio from '../../public/Capture d’écran 2025-04-09 à 3.39.42 PM.png'
 import MainTitle from '../components/MainTitle'
 import ProjectCard from '../components/ProjectCard'
 import { useTheme } from 'next-themes'
@@ -27,8 +27,8 @@ function Projects() {
                 
                 
                     
-                <ProjectCard title={'amanpro Platforme'} image={amanpro} desc={`un site et une app fullstack , pour une societé amanpro pour recevoir , gerer et voir les stats de leurs chantiers , en cours de devloppement`} link={'/'}
-                    stack={['Next js', 'Tailwind Css', 'Typescript', 'react native', 'PostgreSQL', 'node js ','express js']} />
+                <ProjectCard title={'amanpro Platforme'} image={amanpro} desc={`formulaire pour faire une simulation pour un credit bancaire`} link={'/'}
+                    stack={['html', 'Css', 'javascript']} />
             </div>
         </div>
     )
