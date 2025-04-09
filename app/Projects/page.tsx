@@ -3,7 +3,7 @@
 import crous from '../../public/mycrous.jpg'
 import zmala from '../../public/zmala system.jpg'
 import amanpro from '../../public/wa.png'
-import porfolio from '../../public/Capture d’écran 2025-04-09 à 3.39.42 PM.png'
+import porfolio from '../../public/yy.png'
 import MainTitle from '../components/MainTitle'
 import ProjectCard from '../components/ProjectCard'
 import { useTheme } from 'next-themes'
