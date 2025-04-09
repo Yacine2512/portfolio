@@ -23,11 +23,9 @@ const Technologies: Technology[] = [
     { name: 'Tailwind Css', logo: <BiLogoTailwindCss /> },
     { name: 'JAVA', logo: <BiLogoJava /> },
     { name: 'PHP', logo: <BiLogoPhp /> },
-    { name: 'Express Js', logo: <SiExpress /> },
-    { name: 'UI/UX', logo: <BiLogoFigma /> },
     { name: 'Typescript', logo: <BiLogoTypescript /> },
     { name: 'Python', logo: <FaPython /> },
-    { name: 'Appolo', logo: <SiApollographql /> },
+    
 ];
 
 const About = () => {
